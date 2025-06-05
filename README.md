@@ -58,11 +58,5 @@ Refer to `Final_Report/` for the complete documentation, including problem state
 
 ---
 
-## 📸 Media
-
-Find system architecture diagrams, workflow sequences, and demo pictures inside the `Presentations/` and `Images/` folders.
-
----
-
 > “Innovation distinguishes between a leader and a follower.” – *Steve Jobs*
 
