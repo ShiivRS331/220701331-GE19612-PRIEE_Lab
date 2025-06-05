@@ -1,4 +1,4 @@
-# A.L.E.R.T - 
+# A.L.E.R.T - Animal Location and Emergency Response Tracking
 ## 📚 Project & Innovation for Engineers Laboratory  
 ### 🧑‍💻 Student: Shiiv R S | Reg No: 220701331
 
